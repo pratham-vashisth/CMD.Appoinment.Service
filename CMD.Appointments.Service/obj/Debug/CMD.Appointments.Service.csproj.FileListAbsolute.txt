@@ -1,0 +1,72 @@
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll.config
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.pdb
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll.config
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CopyComplete
+C:\Users\User\source\repos\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Appointment\appointment_service\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.pdb
